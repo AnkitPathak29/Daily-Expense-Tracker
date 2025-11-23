@@ -81,13 +81,21 @@ This project aligns with the "Build Your Own Project" guidelines by:
 -
 
 User Input
+
      ↓
+     
 Input Validation
+     
      ↓
+     
 Transaction Creation
+     
      ↓
+     
 Data Processing & Storage (in-memory list)
+     
      ↓
+     
 Display (pandas DataFrame & print)
 
 👨‍💻 How to Install & Run
