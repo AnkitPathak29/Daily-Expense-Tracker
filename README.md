@@ -1,8 +1,10 @@
 🧾 Daily Expense Tracker-Readme
+-
 
 A Simple CLI-Based Personal Expense Logging Application
 
 📌 Overview
+-
 
 The Daily Expense Tracker is a Python-based command-line application that allows users to record, view, summarize, and manage daily expense entries. It is designed as a lightweight and interactive tool for tracking day-to-day spending without requiring databases or external dependencies (other than pandas).
 
@@ -16,6 +18,7 @@ This project demonstrates:
 •	File-free in-memory data handling
 
 🎯 Project Objectives
+-
 
 This project aligns with the "Build Your Own Project" guidelines by:
 
@@ -25,6 +28,7 @@ This project aligns with the "Build Your Own Project" guidelines by:
 •	Documenting the workflow, architecture, and functionality clearly.
 
 ✨ Features
+-
 
 1. Add New Transaction
 
@@ -65,11 +69,13 @@ This project aligns with the "Build Your Own Project" guidelines by:
 
 
 📂 Project Structure
+-
 
 │── expense_tracker.py   # Main project file containing all modules
 │── README.md            # Project documentation
 
 🧩 System Architecture (High-Level)
+-
 
 User Input
      ↓
@@ -82,6 +88,7 @@ Data Processing & Storage (in-memory list)
 Display (pandas DataFrame & print)
 
 👨‍💻 How to Install & Run
+-
 
 1️⃣ Install Python
 
@@ -96,6 +103,7 @@ pip install pandas
 python expense_tracker.py
 
 🧪 Testing Instructions
+-
 
 1. Test Add Transaction
 •	Try valid & invalid inputs: empty name, negative price, non-numeric quantity
@@ -121,6 +129,7 @@ python expense_tracker.py
 
 
 🚀 Future Enhancements
+-
 
 •	Export log to CSV or Excel
 
@@ -133,10 +142,8 @@ python expense_tracker.py
 •	Persistent storage (SQLite / JSON)
 
 
-
-
-
 👥 Target Users
+-
 
 •	Students
 
@@ -150,6 +157,7 @@ python expense_tracker.py
 
 
 📄 License
+-
 
 •	This project is open for educational and non-commercial use.
 
