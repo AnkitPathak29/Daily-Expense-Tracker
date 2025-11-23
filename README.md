@@ -71,8 +71,8 @@ This project aligns with the "Build Your Own Project" guidelines by:
 📂 Project Structure
 -
 
-│── expense_tracker.py   # Main project file containing all modules
-│── README.md            # Project documentation
+  *expense_tracker.py   # Main project file containing all modules
+  *README.md            # Project documentation
 
 🧩 System Architecture (High-Level)
 -
