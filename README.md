@@ -80,23 +80,7 @@ This project aligns with the "Build Your Own Project" guidelines by:
 🧩 System Architecture (High-Level)
 -
 
-User Input
-
-     ↓
-     
-Input Validation
-     
-     ↓
-     
-Transaction Creation
-     
-     ↓
-     
-Data Processing & Storage (in-memory list)
-     
-     ↓
-     
-Display (pandas DataFrame & print)
+User Input -> Input Validation -> Transaction Creation -> Data Processing & Storage (in-memory list) -> Display (pandas DataFrame & print)
 
 👨‍💻 How to Install & Run
 -
